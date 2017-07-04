@@ -71,12 +71,6 @@
 
 ## 채용 (2017)
 
-* [05.22 ~ 06.23 17:00] [넥슨 컴퍼니 - 하계 신입 게임프로그래머](https://career.nexon.com)
-
-* [06.07 ~ 06.25] [로엔 엔터테인먼트(카카오) 신입 공채](https://loen.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS1&jobnoticeSn=9557)
-
-* [05.15 ~ 06.30] [컴투스 - 클라이언트 신입 프로그래머](http://com2us.com/recruit/recruit_popup0)
-
 * [05.08 ~ 07.08] [데브시스터즈 - 웹디자이너 신입](https://www.jobplanet.co.kr/companies/90431/job_postings/85090/%EC%9B%B9-%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88/%EB%8D%B0%EB%B8%8C%EC%8B%9C%EC%8A%A4%ED%84%B0%EC%A6%88?_rs_act=search&_rs_con=job_postings&_rs_element=search_result)
 
 * [채용시까지] [카카오/다음](https://careers.kakao.com/jobs) 
@@ -112,22 +106,12 @@
 
 ## 채용 연계 코딩 대회
 
-* [05.30 ~ 06.16 14:00] [SK 주식회사 C&C “Code Genius 2017”](https://programmers.co.kr/competitions/24/sk-%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC-cc-code-genius-2017)  
-  * 본 프로그래밍 대회에서 Genius로 발탁되신 분들에게는 2017년 SK 주식회사 C&C Summer 인턴십에 함께하실 특전이 주어집니다.
-
-* [05.25 ~ 06.22] [삼성전자 대학생 프로그래밍 경진대회 (SCPC)](https://www.codeground.org/commu/commons/noticeView/AVuDdnmlACcDWREQ)
-  * 대회 입상자는 삼성전자 채용 우대
+* [06.20 ~ 08.04 18:00] [카카오 Code Festival](https://programmers.co.kr/competitions/26/%EC%B9%B4%EC%B9%B4%EC%98%A4-code-festival)  
+  * 본 대회에서 우수한 성적을 거두신 분께는 상금, 입사 지원 특전, 인턴 기회 등 다양한 혜택이 주어집니다.
 
 ## 해커톤 (2017)
 
 구직 중인 신입 개발자들의 취업에 큰 도움이 될 해커톤 정보도 포함했습니다. ([JBee 한재엽](https://github.com/JaeYeopHan)님 감사합니다.)
-
-* [05.29 ~ 06.14] [2017 글로벌 창업아이디어 해커톤](http://hanyang.starthon.co.kr/)
-
-* [06.01 ~ 06.18] [제5회 대학생 디지털 솔루션 챌린지 (K-HACKATHON)](http://appcenter.kr/archives/10055)
-
-* [06.12 ~ 06.30] [무박 2일 해커톤 (AskDjango에서 주최, 한국 마이크로소프트에서 협찬)](https://nomade.kr/moim/askdjango-hackathon-2017/)
-
 
 ## Special Thanks
 
